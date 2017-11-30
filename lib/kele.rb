@@ -1,5 +1,6 @@
 require 'httparty'
 require './lib/kele'
+require 'json'
 
 class Kele
   include HTTParty
